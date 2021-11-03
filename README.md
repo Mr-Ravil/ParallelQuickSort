@@ -19,7 +19,7 @@ Parallel sort 3.089011663597299 times faster than Sequence sort.
 ### Second launch
 ```cpp
 Block size: 1000
-Array size: 100000000
+Array size: 1e8
 Attempts count: 5
 ```
 ```cpp
